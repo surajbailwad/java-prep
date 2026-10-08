@@ -31,7 +31,7 @@ public class ParkingManager {
         Vehicle bike = new Bike("KA00XX0000");
         parkingLot.parkVehicle(bike);
         parkingLot.parkVehicle(bike);
-        parkingLot.parkVehicle(bike);
+//        parkingLot.parkVehicle(bike);
 
     }
 }
