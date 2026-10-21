@@ -60,6 +60,5 @@ public class Player {
             return new Player(this);
         }
 
-
     }
 }

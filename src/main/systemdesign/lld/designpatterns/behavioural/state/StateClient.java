@@ -1,4 +1,4 @@
-package main.systemdesign.lld.designpatterns.structural.state;
+package main.systemdesign.lld.designpatterns.behavioural.state;
 
 public class StateClient {
 
